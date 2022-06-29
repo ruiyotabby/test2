@@ -9,6 +9,7 @@ void main() {
         ),
         body: Center(
           child: Container(
+            height: 300,
             decoration: BoxDecoration(
               color: Colors.red[600],
               borderRadius: BorderRadius.all(Radius.circular(20.0)),
